@@ -1,3 +1,3 @@
 # metallum-to-rym
 
-Easily format tracklistings from releases on encyclopedia metallum for adding to rateyourmusic
+Format release tracklists from Encyclopedia Metallum for adding to Rate Your Music
